@@ -1,0 +1,91 @@
+html {
+    background-color: #fff8fb;
+    font-family: 'Zen Maru Gothic', sans-serif;
+  }
+body {
+    width: 700px;
+    margin: 50px auto;
+    background-color: #fff4f9;
+    padding: 50px 100px 200px 100px;
+    border: 5px solid #ffdcef;
+}
+
+h1,h2,p,a{
+    text-align: center;
+}
+
+h1  {
+    color:rgb(255, 142, 185);
+    font-size: 4.5rem;
+    letter-spacing:25px;
+    text-shadow: 5px 5px 50px rgb(255, 249, 240);
+}
+
+h2{
+    color:rgb(255, 142, 185);
+    font-size: 1.5rem;
+    letter-spacing:5px;
+}
+
+img {
+    margin: 30px auto;
+    display: block;
+    border: 2.5px solid #ffdcef;
+    padding: 20px;
+    background-color:#ffffff80;
+}
+
+p{
+    color:rgb(206, 36, 121);
+    line-height: 30px;
+    font-size: 1rem;
+    letter-spacing:3px;
+}
+
+#line{
+    margin: auto;
+    border: 0;
+    height: 2.5px;
+    width: 700px;
+    background: #ffbbe0;
+}
+
+#line_small{
+    line-height: 1px;
+}
+
+#small{
+    font-size: 0.5rem;
+}
+
+a{
+    width: 300px;
+    padding: 5px;
+    margin: 15px auto;
+    display: block;
+    color:rgb(255, 142, 185);
+    border: 2px solid #ffbbe0;
+    background-color:#ffffffc2;
+}
+
+ul {
+    color:rgb(206, 36, 121);
+    line-height: 30px;
+}
+
+video{
+    height:8cm;
+    margin: 30px auto;
+    display: block;
+}
+
+audio{
+    width: 500px;
+    margin: 30px auto;
+    display: block;
+}
+
+iframe{
+    margin: 30px auto;
+    display: block;
+}
